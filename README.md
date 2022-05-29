@@ -1,7 +1,7 @@
 [![MasterHead](https://www.suntecindia.com/img/data-analytics-services-image.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Munna Das</h1>
 <h3 align="center">Data Analyst / Power BI Developer</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshot/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🌱 I’m currently learning **SQL, Python**
 
